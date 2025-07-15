@@ -1,0 +1,1 @@
+Os arquivos contam como *2 pois tentei antes de implementar de um jeito simples implementar com a fifo do primeiro trabalho. arquivos principais estao no repositorio principal, sendo esses os *2. o outro com a fifo é so um projeto q eu pretendo terminar, n servindo pra avalhacao.

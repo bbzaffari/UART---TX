@@ -1,0 +1,7 @@
+vlib work
+vcom uart_tx.vhd
+vcom uart_rx.vhd
+vcom uart_tx_tb2.vhd
+vsim -wlf /sim/uart_tx_tb2 -voptargs="+acc" -wlfdeleteonquit uart_tx_tb2
+add wave -r sim:/uart_tx_tb2/*
+run 30 ms
